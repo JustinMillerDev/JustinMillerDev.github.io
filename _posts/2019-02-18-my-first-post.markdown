@@ -4,9 +4,12 @@ title:  "My First Post"
 date:   2019-02-18 13:58:22 -0500
 categories: jekyll update
 ---
-I created my first website using a domain from NameCheap using Jekyll hosted on github pages. Shout out to my friend [Porter Darby][porter-codes] for showing me how his portfolio is built and hosted.
+Everyone has to start somewhere!
 
-I can't say for sure that I will regularly update this blog with posts. I have a few topics in mind that I want to write about.
+A quick description of how I did it: I rented my domain, [justin.computer](https://justin.computer/), from [namecheap](https://www.namecheap.com/). I used [github pages](https://pages.github.com/) for hosting. For the page itself, I used [jekyll](https://jekyllrb.com/) to generate html from simple text files.
 
-[porter-codes]: porter.codes
+I have a few plans for improvements going forward. The list includes replacing the default jekyll theme with one of my own and adding an email utility.
+
+A huge thanks to my friend Porter Darby for getting my started by showing me these tools.
+
 
