@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technical Skills
+title: Skills
 permalink: /skills/
 ---
 

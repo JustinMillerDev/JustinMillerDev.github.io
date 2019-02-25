@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-show_title: true
 ---
 
 My name is Justin Miller. I write code, play games, and love to cook. 
