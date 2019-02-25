@@ -1,7 +1,5 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
 ---
 
 My name is Justin Miller. I write code, play games, and love to cook. 
