@@ -5,6 +5,7 @@
 layout: home
 ---
 
-My name is Justin Miller. I write code, play games, and love to cook. 
+My name is Justin Miller and I am an indie game programmer and aspiring web developer.
 
-My favorites are [World of Warcraft](https://worldofwarcraft.com), [Magic the Gathering](https://magic.wizards.com/en), mexican food, and whatever I can scrape together from the fridge.
+I have over two years of experience creating games in Unity for both PC and mobile. Recently, I have branched out into web and other software development.
+
